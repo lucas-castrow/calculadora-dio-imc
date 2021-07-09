@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DIO - IMC Calculator</string>
+    <string name="text_label_2">Style</string>
+    <string name="text_label_1">Name</string>
+    <string name="label">Peso</string>
+    <string name="edtPeso">Digite seu peso</string>
+    <string name="btCalcular">Calcular</string>
+    <string name="edtAltura">Digite sua Altura</string>
+    <string name="accept">Calcular novamente</string>
+</resources>
